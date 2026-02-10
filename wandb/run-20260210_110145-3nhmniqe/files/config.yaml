@@ -1,0 +1,28 @@
+_wandb:
+    value:
+        cli_version: 0.24.2
+        e:
+            vr6fvps2hetlgul5f7oqqylu5rgtt4gu:
+                codePath: W&B.py
+                codePathLocal: W&B.py
+                email: yuvakshi9779g@gmail.com
+                executable: C:\Users\yuvakshi\AppData\Local\Programs\Python\Python311\python.exe
+                git:
+                    commit: b2085d613278bf41ed290eecd28f07d441fccdd0
+                    remote: https://github.com/23f2004946/DLGenAI-MessyMashup.git
+                host: Yuvakshi
+                os: Windows-10-10.0.26200-SP0
+                program: d:\DLGenAI-MessyMashup\W&B.py
+                python: CPython 3.11.9
+                root: D:\DLGenAI-MessyMashup
+                startedAt: "2026-02-10T05:31:45.843412Z"
+                writerId: vr6fvps2hetlgul5f7oqqylu5rgtt4gu
+        m: []
+        python_version: 3.11.9
+        t:
+            "4": 3.11.9
+            "5": 0.24.2
+            "8":
+                - 3
+            "12": 0.24.2
+            "13": windows-amd64

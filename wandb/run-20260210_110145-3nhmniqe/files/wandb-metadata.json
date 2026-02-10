@@ -1,0 +1,17 @@
+{
+  "os": "Windows-10-10.0.26200-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2026-02-10T05:31:45.843412Z",
+  "program": "d:\\DLGenAI-MessyMashup\\W&B.py",
+  "codePath": "W&B.py",
+  "codePathLocal": "W&B.py",
+  "git": {
+    "remote": "https://github.com/23f2004946/DLGenAI-MessyMashup.git",
+    "commit": "b2085d613278bf41ed290eecd28f07d441fccdd0"
+  },
+  "email": "yuvakshi9779g@gmail.com",
+  "root": "D:\\DLGenAI-MessyMashup",
+  "host": "Yuvakshi",
+  "executable": "C:\\Users\\yuvakshi\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "writerId": "vr6fvps2hetlgul5f7oqqylu5rgtt4gu"
+}
